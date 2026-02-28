@@ -48,9 +48,6 @@ npm run dev
 - **Backend:** Node.js, Express, MongoDB
 - **Real-time:** Socket.io
 
-## 📄 License
-
-MIT
 
 ---
 
